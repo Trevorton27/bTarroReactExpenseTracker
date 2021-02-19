@@ -80,7 +80,6 @@ class App extends React.Component {
             amount={this.state.amount}
             deleteExpense={this.deleteExpense}
           />
-          <br></br>
         </div>
       </div>
     );
